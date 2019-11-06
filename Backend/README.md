@@ -1,10 +1,10 @@
-# HomeAway - Backend
+# Grubhub - Backend
 
-How to run HomeAway backend?
+How to run Grubhub backend?
   - Navigate to backend directory in cmd
   - Install required dependencies using npm install
   - Import the DB structures and data from the file SQLDBDump.sql
-  - Run HomeAway back end using npm start
+  - Run Grubhub back end using npm start
   - Test API calls with Mocha using npm test
 
 How can I change port, if port 3001 is occupied?
