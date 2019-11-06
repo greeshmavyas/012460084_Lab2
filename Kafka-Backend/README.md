@@ -1,6 +1,6 @@
-# Lab 1 - HomeAway - Kafka-Backend
+# Lab 2 - Grubhub - Kafka-Backend
 
-How to run HomeAway Kafka-backend?
+How to run Grubhub Kafka-backend?
   - Navigate to Kafka-backend directory in cmd
   - Install required dependencies using npm install
   - zoo keeper and kafka need to be installed before the back-end for this app can be executed
