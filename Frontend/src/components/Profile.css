@@ -1,0 +1,62 @@
+body {
+  padding: 0 !important;
+  color: #353e44;
+  background-color: #f4f4f4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.mybarcontainer {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.myprofilecontainer {
+  width: 30%;
+  margin-left: 25%;
+  text-align: left;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /*don't forget prefixes*/
+  background-position: center center;
+  /* as mentioned by Vad: */
+  background-size: cover;
+  margin: auto;
+}
+
+.uploadImg {
+  position: absolute; /*or fixed*/
+  right: 0px;
+}
+.uploadImgRest {
+  position: absolute; /*or fixed*/
+  left: 17%;
+}
+.uploadImgItem {
+  position: absolute; /*or fixed*/
+  right: 0px;
+}
+.profilepic {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.homeimg {
+  margin-left: 25%;
+  width: 50%;
+  height: 50%;
+}
+
+.ownerhomeimg {
+  margin-left: 10%;
+  margin-top: 5%;
+  width: 80%;
+  height: 100%;
+}
